@@ -6,3 +6,4 @@ Recopilación de datos de la encuesta de evaluación del IGF Bolivia 2018, que p
 
 Se adjunta el código realizado en Python mediante la herramienta Jupyter (con los algoritmos de análsis), para hacer el análisis de datos a la encuesta original en `cuestionario_realizado.csv`
 
+Resultado de los datos: https://infogram.com/infograma-igf-bolivia-2018-1ho16vzxpnm72nq?live
